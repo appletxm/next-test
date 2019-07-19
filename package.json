@@ -1,0 +1,33 @@
+{
+  "name": "test_next",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "react",
+    "next",
+    "ssr"
+  ],
+  "author": "appletxm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appletxm/next-test.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/appletxm/next-test/issues"
+  },
+  "node": {
+    "version": ">=8.0"
+  }
+}
